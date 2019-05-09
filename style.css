@@ -1,0 +1,45 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+
+
+ul
+{
+    list-style:none;
+    margin-left:200px;
+    display:inline-block;
+}
+
+.sec{
+    width:100px;
+    height:600px;
+    background: lightgrey;
+    float:left;
+    margin-top:10px;
+   
+
+}
+.image
+{
+    height:350px;
+    margin-left:60px;
+    float:left;
+    border:solid gray 6px;
+    margin-top:10px;
+}
+#heading{
+
+    margin-left:20px;
+}
+.rate
+{
+    color:red;
+    margin-left:50px;
+    margin-top:-10px;
+   
+}
+.box
+{
+    width:200px;
+    height:40px;
+    background-color:#f2849e;
+}
+    
