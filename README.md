@@ -1,15 +1,15 @@
-# Tech Karo - HTML / CSS Tes
+# Tech Karo - HTML / CSS Test
 
 **Date:** May 9th, 2019
 
 ## How to start the test?
+
 You will find a `Download ZIP` button on this repo. Click it to download, and then unzip the folder.
 
 1. Write all HTML code in the given `index.html` file.
 2. Write all CSS code in the given `style.css` file.
 
 ![Screen Shot 2019-05-04 at 12 42 47](https://user-images.githubusercontent.com/10798986/57175897-c3147f80-6e6a-11e9-9ab8-214be2f3cc4d.png)
-
 
 ## Rules
 
